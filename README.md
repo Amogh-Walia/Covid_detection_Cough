@@ -1,4 +1,4 @@
-# Covid_detection_Cough
+# Covid detection by Cough
 
 =======
 A project which can be used by soldiers to quickly check their respiratory health.
